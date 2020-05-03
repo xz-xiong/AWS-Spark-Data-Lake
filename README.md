@@ -2,6 +2,8 @@
 My solution for the data lake  AWS project for the Data Engineering Nanodegree on Udacity
 
 ## Quick Start
+Edit dl.cfg: Fill in AWS acces key (KEY) and secret (SECRET).
+
 Copy log_data and song_data folders to your own S3 bucket.
 
 Create output_data folder in your S3 bucket.
