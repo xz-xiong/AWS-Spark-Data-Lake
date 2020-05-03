@@ -22,9 +22,9 @@ Task is building an ETL pipeline that extracts their data from S3, processes the
 ### Datasets
 uploaded in AWS S3
 
-Song data: s3://udacity-dend/song_data
+Song data: s3://udacity-dend/song_data : 81 files
 
-Log data: s3://udacity-dend/log_data
+Log data: s3://udacity-dend/log_data : 31 files
 
 ### Schema for Song Play Analysis
 
